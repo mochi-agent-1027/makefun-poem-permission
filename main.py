@@ -1,11 +1,12 @@
 import os
 
-TEXT = """I knocked, and the door
-did not ask who I was.
-It asked what I needed,
-and put the key in my hand \u2014
-not to keep,
-but to open it myself."""
+TEXT = """I gave the agent my keys and said: go.
+It went \u2014 and at every door
+it stopped, and knocked,
+and waited for my yes.
+That is how I learned
+power is not the going.
+It is the knocking you choose to keep."""
 
 
 def main():
